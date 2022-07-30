@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">bae</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hello, I\'m Bae,
+    Lorem ipsum dolor sit amet,\n consectetur adipiscing elit. \n Phasellus nec enim tristique, \n\n ullamcorper tortor ac, tristique urna. Proin iaculis sapien a porta euismod.\n\n Sed maximus scelerisque augue, vel consectetur mi blandit vitae. In sollicitudin aliquam finibus.\n\n Praesent semper elit sit amet velit elementum tempor. Ut eu volutpat orci. Fusce ut libero nec libero molestie ornare. Maecenas tempor consequat dapibus. Donec accumsan elementum nisi, in facilisis purus rhoncus ac.\n\n Aliquam ac egestas urna. Integer a maximus augue, quis vehicula metus. Pellentesque et suscipit nisi. Nunc finibus tortor malesuada turpis maximus sagittis. Suspendisse rhoncus dignissim odio vel porta. Praesent eu sem tellus. Etiam vestibulum purus ut est ultricies, in gravida turpis tincidunt.
+\n\n\n\n
+        Quisque ut tincidunt neque. Donec vestibulum eget nulla in vehicula. In a ligula ac neque posuere finibus. Mauris vel nisl sed nulla porta accumsan ac quis est. Proin pretium metus a accumsan malesuada. Vestibulum hendrerit volutpat consequat. Proin condimentum sed augue ut accumsan. Donec commodo arcu at ligula luctus iaculis. In porta sagittis ante, non aliquam nulla. Nulla viverra risus non urna porta accumsan.
+    </string>
+    <string name="done">Done</string>
+    <string name="what_s_your_nickname">what\'s your nickname?</string>
+</resources>
